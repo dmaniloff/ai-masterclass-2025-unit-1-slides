@@ -2,7 +2,7 @@
 theme: default
 layout: cover
 colorSchema: light
-background: /images/library.jpg
+background: /library.jpg
 title: AI Masterclass 2025
 info: |
   AI Masterclass 
