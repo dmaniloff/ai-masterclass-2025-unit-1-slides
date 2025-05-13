@@ -227,7 +227,7 @@ What is Llama Stack and why is it a good idea?
 ---
 title: AI System Design, I'm good thanks
 layout: image-right
-image: /images/drake-no.jpg
+image: /drake-no.jpg
 backgroundSize: 60%
 hideInToc: true
 ---
@@ -314,7 +314,7 @@ What is Llama Stack and why is it a good idea?
 ---
 title: I need this
 layout: image-right
-image: /images/drake-yes.jpg
+image: /drake-yes.jpg
 backgroundSize: 60%
 hideInToc: true
 ---
