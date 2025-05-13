@@ -754,7 +754,7 @@ rich.print(models)
 ]
 ```
 
-[../notebooks/client.ipynb](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/notebooks/client.ipynb)
+[client.ipynb](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/unit-1/notebooks/client.ipynb)
 
 ::right::
 
@@ -1232,7 +1232,7 @@ hideInToc: true
 
 # Implement RAG from scratch
 - Update or create a new distribution
-  - [masterclass-agents/run](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/distributions/masterclass-agents/run.yaml)
+  - [masterclass-agents/run.yaml](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/unit-1/distributions/masterclass-agents/run.yaml)
 - Register a vector database from the client
 - Implement a basic RAG pipeline in a notebook
   - Insert a few documents
@@ -1331,7 +1331,7 @@ rag_agent = Agent(
 )
 ```
 
-https://github.com/dmaniloff/ai-masterclass-2025/blob/slides-dev/notebooks/rag.ipynb
+[rag.ipynb](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/unit-1/notebooks/rag.ipynb)
 
 
 ---
@@ -1551,7 +1551,7 @@ for prompt in user_prompts:
         log.print()
 ```
 
-[../notebooks/tool.ipynb](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/notebooks/tool.ipynb)
+[tool.ipynb](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/unit-1/notebooks/tool.ipynb)
 
 <!-- 
 - this is our first agent, so we will do it together
@@ -1720,7 +1720,7 @@ hideInToc: true
 ---
 # An agent that can read files
 
-https://github.com/dmaniloff/ai-masterclass-2025/blob/slides-dev/notebooks/mcp.ipynb
+[mcp.ipynb](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/unit-1/notebooks/mcp.ipynb)
 
 ---
 layout: section
@@ -1793,7 +1793,7 @@ hideInToc: true
 ---
 # A “reasoning and acting” (ReAct) agent
 
-https://github.com/dmaniloff/ai-masterclass-2025/blob/slides-dev/notebooks/react.ipynb
+[react.ipynb](https://github.com/trustyai-explainability/ai-masterclass-2025/blob/main/unit-1/notebooks/react.ipynb)
 
 ---
 layout: statement
